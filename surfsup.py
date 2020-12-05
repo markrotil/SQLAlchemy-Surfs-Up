@@ -94,3 +94,7 @@ def stations():
         stations_list.append(station_dict)
 
     return jsonify(stations_list)
+
+
+# @app.route("/api/v1.0/<start>")
+# @api.route("/api/v1.0/<start>/<end>")
