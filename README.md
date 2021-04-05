@@ -1,5 +1,3 @@
-# SQLAlchemy_Challenge
-SQL alchemy homework
 # SQLAlchemy Homework - Surfs Up!
 
 ### Before You Begin
